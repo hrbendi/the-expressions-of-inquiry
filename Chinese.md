@@ -1,12 +1,21 @@
 # The Expressions of Inquiry
+# 探询的表达
 
 The truth is one and everywhere the same, yet the expressions of it are many.— Cicero
+真理只有一个并且普遍适用，但它的表达有很多。——西塞罗
 
 ## A Structure of Design Inquiry
+## 设计探询的结构
 
 In a field of design that is constantly being expanded and gradually involved in all areas of human experience. A strategy of inquiry plays a role will become a critical direction for the discipline that finding the problems instead of answering. The method is varied, but the gold is the same.
+设计领域正在不断扩展并逐渐涉及人类经验的所有领域。 探询策略所扮演的角色在寻找问题而不是回答问题的关键方向上发挥作用。 方法多种多样，但黄金是相同的（？）。
 
-The history of inquiry is the history of reformation the understanding of the term Reality. Trees, rivers, mountains, buildings, vehicles that all physical we can see, touch and recognize, this earth and the entire cosmos. That is the Reality of Entitativity, as a pure entity, the world we live in, construct knowledge from the elements of the knowable (McKeon 1990a, 250). All physical activity manufacturing takes place here, but not all the problems. As an Humanity, cognitive evolution determines the formula for acquiring and understanding the world. "Naturally", the process of knowing the Entity was segmentation by cognitive limitations. Understanding is the first step when confronting complex objects, and the method of inquiry becomes critical. Resolve the problems encountered in the known in theory practice, and production to reconstitute the known in a new form (McKeon 1990a, 250). That is Essentialist in the reality of thought, the world we identify, every entity has a set of attributes that are necessary to its identity and function (Richard L. Cartwright, 1968, p. 65). Epistemic, built on the limited understanding of perception and inquiry, present the known as products of the discrimination and activity of the knower(Z. McKeon, 1990, p. 250). That is Existential in the reality of thought. The "existence" comes from the Latin word exsistere meaning "to appear", "to arise", "to become", or "to be", the world we known. The forming process of An idea of *Existence* is meriting research, not to reinforce the shape but try to expand and dilute it.
+The history of inquiry is the history of reformation the understanding of the term Reality. Trees, rivers, mountains, buildings, vehicles that all physical we can see, touch and recognize, this earth and the entire cosmos. That is the Reality of Entitativity, as a pure entity, the world we live in, construct knowledge from the elements of the knowable (McKeon 1990a, 250). All physical activity manufacturing takes place here, but not all the problems. As an Humanity, cognitive evolution determines the formula for acquiring and understanding the world. 
+探询的历史是对现实一词的理解的变革史。树木，河流，山脉，建筑物，车辆，我们可以看到，触摸和识别所有物理，这个地球和整个宇宙。这是实体性的现实，作为一个纯粹的实体，我们生活的世界，从可知的元素构建知识（McKeon 1990a，250）。所有物理活动都在这里进行，但不是所有的问题。作为一个人类，认知进化决定了获取和理解世界的公式。 
+"Naturally", the process of knowing the Entity was segmentation by cognitive limitations. Understanding is the first step when confronting complex objects, and the method of inquiry becomes critical. Resolve the problems encountered in the known in theory practice, and production to reconstitute the known in a new form (McKeon 1990a, 250). That is Essentialist in the reality of thought, the world we identify, every entity has a set of attributes that are necessary to its identity and function (Richard L. Cartwright, 1968, p. 65). Epistemic, built on the limited understanding of perception and inquiry, present the known as products of the discrimination and activity of the knower(Z. McKeon, 1990, p. 250). 
+“自然地”，认知实体的过程是跟随认知局限性而演进的。理解是面对复杂对象的第一步，探询方法变得至关重要。解决在已知理论实践中遇到的问题，并以新的形式重新构建认知（McKeon 1990a，250）。这是思想现实中的本质主义者，我们感知的世界，每个实体都有一套对其身份和功能必不可少的属性（Richard L. Cartwright，1968，p.65）。认识论，建立在对感知和探询的有限理解的基础上，以感知者的行为和辨识结果的方式呈现认知（Z.McKeon，1990，第250页）。
+That is Existential in the reality of thought. The "existence" comes from the Latin word exsistere meaning "to appear", "to arise", "to become", or "to be", the world we known. The forming process of An idea of *Existence* is meriting research, not to reinforce the shape but try to expand and dilute it.
+这是思想现实中的存在主义。 “存在”来自拉丁语exsistere，意思是“出现”，“出现”，或“成为”，我们所知道的世界。 *存在*的概念的形成过程值得研究，不是为了加强形状而是试图扩大和稀释它。
 
 Figure 1 Zahava K. McKeon < Philosophic Semantics & Philosophic Inquiry >
 
